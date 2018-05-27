@@ -1,2 +1,2 @@
 hello GIt
-remote
+remote2
